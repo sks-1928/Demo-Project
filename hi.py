@@ -1,4 +1,5 @@
 print("Hii")
+print("Diploma IT student")
 print("Shriya Shiralkar")
 print("Diploma IT Student")
 print("Hii")
